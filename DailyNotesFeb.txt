@@ -1,0 +1,106 @@
+on-1  off-0 ----------------->ASCII/UNICODE
+
+					a-97-10101010
+					
+computer lang :- programs = set of instructions 
+
+
+s.l :- designing of website
+
+p.l :- develop sofwares
+
+								computer lang
+							
+						scripting lang      programming lang
+			html,css,js,ts,.........		
+											pop					oop
+											
+										basic,python....	java,.net,python,..........
+										
+	    oopl   oops 
+		
+		
+security:-  abstraction,encapsulation
+
+performance :- inheritance,Polymorphism
+		
+java:-
+
+
+independent:- 
+
+garbage collector:- 
+
+
+summicrosystem ------------------>portable
+
+green talk(.gt) ------------>oak ---------------->java(.java)
+
+
+jdk 1.0------------------------------------------->jdk 23
+
+
+3 editions :- 
+
+
+jse/j2se:- core java -standalone 
+
+jee/j2ee:-core java+adv java - distributed ,web 
+
+jme/j2me:- micro core java-mobile 
+
+to check jdk installtion :-  java --version
+
+
+53-reserved words-keywords
+
+
+Variables :- 
+
+
+	syntax:-   datatype varname ;  //declaration of a variable
+	
+				datatype variableName = value ;  //initialization of a variable
+				
+				
+									varibales
+									
+				
+		local variable							gloabal variable
+
+	inside the method body					outside the method body
+
+
+										static g.v 				instance g.v
+										
+syntax:- 										
+----------
+static :-  static   dt variableName = value;  
+
+instance :-  dt variableName = value;
+
+access :- 
+--------
+static :- 
+
+instance:- 
+
+memory allocation:-
+-------------------
+static :- 
+
+instance:- 
+
+
+usage :- 
+------
+static :- 
+
+instance:- 
+
+in the memory:- 
+--------------										
+static :- 
+
+instance:- 										
+	
